@@ -1,0 +1,7 @@
+<gui>
+	<distance_triangle>182.545</distance_triangle>
+<errorToleranceTriangle>0.2</errorToleranceTriangle>
+<drawDebugB>1</drawDebugB>
+	<fullScreenB>0</fullScreenB>
+<gui/>
+</gui>

@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+addons.make
+*.dll
+bin/oscTouchObject.exe
+*.lib
+bin/oscTouchObject.exp
+*.obj
+obj/Release/oscTouchObject.tlog/CL.command.1.tlog
+*.tlog
+obj/Release/oscTouchObject.log
+*.cache
+oscTouchObject.sdf
