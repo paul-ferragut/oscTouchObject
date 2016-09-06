@@ -342,7 +342,7 @@ float  touchObject::findOrientation(ofPoint pt[3], int top) {
 
 	diff.normalize();
 
-	return 	ofRadToDeg(atan2(diff.x, diff.y));
+	return 	ofRadToDeg(atan2(diff.x, diff.y))*-1;
 
 }
 
